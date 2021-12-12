@@ -1,0 +1,30 @@
+#duoi >.Thong_tin{
+			
+			width: 30% ;
+			float: left;
+			height: 100%;
+			text-align: left;
+		}
+		#duoi >.Bao_Hanh{
+		
+			width: 40% ;
+			height: 100%;
+			float: left;
+			text-align: left;
+		}
+		#duoi >.Doi_tac{
+			
+			width: 30% ;
+			float: left;
+			height: 100%;
+			text-align: left;
+
+		}
+		a{
+			text-decoration: none;
+			color: white;
+			margin-left: auto;
+		}
+		ul {
+			list-style: none;
+		}

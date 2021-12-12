@@ -1,0 +1,39 @@
+#danh_muc ul li{
+			margin-left : -25px;
+			/*	float: left;*/
+			position: relative;
+			color: black;
+		}
+		#danh_muc ul >li {
+			
+			display: inline-block;
+			width: 80px;
+			height: 40px;
+			margin-top: -15px;
+			margin-left: 2px;
+
+		}
+		#danh_muc ul >li >ul{
+			display: none;
+			background: #DDDDDD;
+			margin-top: 20px;
+
+		}
+		#danh_muc ul >li >ul>li{
+			
+			background:	#DDDDDD;
+			
+		} 
+		#danh_muc ul >li:hover ul {
+			display: block ;
+			position: absolute;
+
+		}
+		
+		#danh_muc a{
+			text-decoration: none;
+			color: black;
+			display: block;
+			font-style: bo ;
+		}
+		
