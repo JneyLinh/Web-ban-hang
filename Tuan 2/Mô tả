@@ -1,0 +1,24 @@
+Web Bán Hàng Thiết Bị Công nghệ
+Đối Tượng sử dụng :
+a)	Khách hang không có tài khoản
+-	Tìm kiếm theo tên sản phẩm hoặc nhà sản xuất
+-	Xem tất cả , chi tiết sản phẩm
+-	Xem theo danh mục sản phẩm
+-	Đăng ký
+b)	Khách hang có tài khoản
+-	Đầy đủ thông tin của khách hang không có tài khoản
+-	Đăng nhập đăng xuất
+-	Quản lý giỏ hàng (thêm , sửa số lượng xoá giỏ hàng)
+-	Đặt hàng
+-	Đóng góp ý kiến về sản phẩm và nhân  viên
+-	Đặt hàng
+c)	Nhân viên :
+-	Quản lý sản phẩm(Xem , thêm sản phẩm, chỉnh sửa sản phẩm)
+-	Đăng nhập , Đăng xuất
+-	Thay đổi tình trạng đơn
+d)	Quản lý:
+-	Đầy đủ của nhân viên(Nhận xét về nhân viên)
+-	Quản lý nhân viên
+-	Quản lý nhà sản xuất(xem , thêm , sửa ,xoá)
+-	Quản lý sản phẩm (xem , thêm , sửa ,xoá)
+
